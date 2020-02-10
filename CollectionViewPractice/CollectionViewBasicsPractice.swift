@@ -27,8 +27,4 @@ class CollectionViewBasicsPractice: UIViewController , UICollectionViewDelegate,
 }
 
 
-/*Future Reference:
- https://www.youtube.com/watch?v=Coaf3mquHf8
- 
- - [ How to use UICollectionView in Swift  || Simple Version ]
- */
+
