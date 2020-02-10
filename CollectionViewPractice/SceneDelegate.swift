@@ -1,10 +1,7 @@
-//
 //  SceneDelegate.swift
 //  CollectionViewPractice
-//
 //  Created by Ranjeet Raushan on 10/02/20.
 //  Copyright © 2020 vaayoo. All rights reserved.
-//
 
 import UIKit
 
@@ -47,7 +44,5 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         // Use this method to save data, release shared resources, and store enough scene-specific state information
         // to restore the scene back to its current state.
     }
-
-
 }
 
